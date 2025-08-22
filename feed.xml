@@ -1,0 +1,141 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>星空下微風輕拂黃光閃耀的世界一</title>
+  <subtitle>2025年至2038年紀錄一</subtitle>
+  <updated>2025-08-22T12:40:57+08:00</updated>
+  <author>
+    <name>Hsin Feng Huang</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-TW"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Hsin Feng Huang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>萬香傳統手工豆花</title>
+    <link href="http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/" rel="alternate" type="text/html" title="萬香傳統手工豆花" />
+    <published>2025-08-21T08:06:11+08:00</published>
+  
+    <updated>2025-08-21T22:48:09+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/" />
+    <author>
+      <name>Hsin Feng Huang</name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>傳統豆花：35元</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>20250819</title>
+    <link href="http://localhost:4000/posts/20250819/" rel="alternate" type="text/html" title="20250819" />
+    <published>2025-08-19T00:56:00+08:00</published>
+  
+    <updated>2025-08-19T00:56:58+08:00</updated>
+  
+    <id>http://localhost:4000/posts/20250819/</id>
+    <content type="text/html" src="http://localhost:4000/posts/20250819/" />
+    <author>
+      <name>Hsin Feng Huang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>2025-08-19</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>義美台灣花生巧克力雪糕</title>
+    <link href="http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/" rel="alternate" type="text/html" title="義美台灣花生巧克力雪糕" />
+    <published>2025-08-16T16:19:00+08:00</published>
+  
+    <updated>2025-08-16T16:20:06+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/" />
+    <author>
+      <name>Hsin Feng Huang</name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>一支原價：40元      4入裝：115元 (平均單價：28.75元)      商店: 大全聯(原大潤發)</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>遠洋牌紅燒鰻</title>
+    <link href="http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/" rel="alternate" type="text/html" title="遠洋牌紅燒鰻" />
+    <published>2025-08-10T00:18:00+08:00</published>
+  
+    <updated>2025-08-15T01:24:32+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/" />
+    <author>
+      <name>Hsin Feng Huang</name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>單價: 37元  商店: 大全聯(原大潤發)</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>114年高考三級資訊處理考畢試題</title>
+    <link href="http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E8%80%83%E7%95%A2%E8%A9%A6%E9%A1%8C/" rel="alternate" type="text/html" title="114年高考三級資訊處理考畢試題" />
+    <published>2025-07-10T23:59:00+08:00</published>
+  
+    <updated>2025-08-15T01:27:31+08:00</updated>
+  
+    <id>http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E8%80%83%E7%95%A2%E8%A9%A6%E9%A1%8C/</id>
+    <content type="text/html" src="http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E8%80%83%E7%95%A2%E8%A9%A6%E9%A1%8C/" />
+    <author>
+      <name>Hsin Feng Huang</name>
+    </author>
+
+  
+    
+    <category term="考試" />
+    
+  
+
+  <summary>日期       節次       預備時間       考試時間       科目名稱                       114/07/08       1       08:40       09:00~11:00       國文（作文與測驗）                 114/07/08       2       12:50       13:00~15:00       資通網路與安全                 114/07/08       3       15:50       16:00~17:00       法學知識與英文（包括中華民國憲法、法學緒論、英文）                 114/07/09       4       08:50       09:00~11:00       資料庫應用                 ...</summary>
+
+  </entry>
+
+</feed>
+
+
