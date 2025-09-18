@@ -1,0 +1,141 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>星空下微風輕拂黃光閃耀的世界一</title>
+  <subtitle>2025年至2038年紀錄一</subtitle>
+  <updated>2025-09-19T00:20:51+08:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-TW"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025  </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>114年高考三級資訊處理未錄取(第355名)</title>
+    <link href="http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E6%9C%AA%E9%8C%84%E5%8F%96(%E7%AC%AC355%E5%90%8D)/" rel="alternate" type="text/html" title="114年高考三級資訊處理未錄取(第355名)" />
+    <published>2025-09-18T22:48:00+08:00</published>
+  
+    <updated>2025-09-19T00:20:31+08:00</updated>
+  
+    <id>http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E6%9C%AA%E9%8C%84%E5%8F%96(%E7%AC%AC355%E5%90%8D)/</id>
+    <content type="text/html" src="http://localhost:4000/posts/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E6%9C%AA%E9%8C%84%E5%8F%96(%E7%AC%AC355%E5%90%8D)/" />
+    <author>
+      <name></name>
+    </author>
+
+  
+    
+    <category term="考試" />
+    
+  
+
+  <summary>114年高考三級資訊處理未錄取，第355名</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>萬香傳統手工豆花</title>
+    <link href="http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/" rel="alternate" type="text/html" title="萬香傳統手工豆花" />
+    <published>2025-08-21T08:06:11+08:00</published>
+  
+    <updated>2025-09-03T01:28:33+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/" />
+    <author>
+      <name></name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>傳統豆花：35元</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>20250819</title>
+    <link href="http://localhost:4000/posts/20250819/" rel="alternate" type="text/html" title="20250819" />
+    <published>2025-08-19T00:56:00+08:00</published>
+  
+    <updated>2025-09-03T01:28:33+08:00</updated>
+  
+    <id>http://localhost:4000/posts/20250819/</id>
+    <content type="text/html" src="http://localhost:4000/posts/20250819/" />
+    <author>
+      <name></name>
+    </author>
+
+  
+    
+  
+
+  <summary>2025-08-19</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>義美台灣花生巧克力雪糕</title>
+    <link href="http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/" rel="alternate" type="text/html" title="義美台灣花生巧克力雪糕" />
+    <published>2025-08-16T16:19:00+08:00</published>
+  
+    <updated>2025-09-03T01:28:33+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/" />
+    <author>
+      <name></name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>一支原價：40元      4入裝：115元 (平均單價：28.75元)      商店: 大全聯(原大潤發)</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>遠洋牌紅燒鰻</title>
+    <link href="http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/" rel="alternate" type="text/html" title="遠洋牌紅燒鰻" />
+    <published>2025-08-10T00:18:00+08:00</published>
+  
+    <updated>2025-09-03T01:28:33+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/" />
+    <author>
+      <name></name>
+    </author>
+
+  
+    
+    <category term="食" />
+    
+  
+
+  <summary>單價: 37元  商店: 大全聯(原大潤發)</summary>
+
+  </entry>
+
+</feed>
+
+
